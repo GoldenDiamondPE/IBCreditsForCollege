@@ -40,7 +40,7 @@ th {
 th, td {
      padding: 5px;
       text-align: center;
-      width: 40px;
+      width: 30px;
 }
 
 tr:hover {background-color: #000000;}
