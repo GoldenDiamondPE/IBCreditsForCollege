@@ -1,0 +1,56 @@
+    /* Apologizes to anyone forced to work with this trainwreck of a code */
+
+
+html {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,37,65,1) 28%, rgba(16,12,48,1) 68%, rgba(9,6,66,1) 100%);
+}
+
+img 
+{
+    width: 100px; 
+}
+
+body {
+    width: 80%;
+    margin: 4% auto;
+    font-family: "Times New Roman";
+    font-size: 15px;
+    /*background-color: #000000; */
+    color: #FFFFFF;
+}
+
+table {
+    border-spacing: 5px;
+    height:10%;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    font-size: 20px;
+}
+
+th, td {
+    height: 10px;     
+    width: 200px;
+    text-align: center;
+      
+}
+
+tr:hover {background-color: #000000;}
+
+tr {
+height: 15%;
+}
+
+button {
+    background-color: #900000;
+    border-color: #900000;
+    color: #FFFFFF;
+}
+
+tr:hover {background-color: #191970;}
