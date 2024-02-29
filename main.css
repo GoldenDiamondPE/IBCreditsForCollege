@@ -6,6 +6,12 @@ html {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(43,37,65,1) 28%, rgba(16,12,48,1) 68%, rgba(9,6,66,1) 100%);
 }
 
+img 
+{
+    width: 100px; 
+    height: 100px;
+}
+
 body {
     width: 80%;
     margin: 1.5% auto;
